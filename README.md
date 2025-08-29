@@ -12,7 +12,7 @@ A VBA macro that automates sending customized bulk emails directly from Excel us
 - `SendSelectedBulkEmails.bas` – VBA macro code  
 - `SampleData.xlsm` – Excel workbook with sample email data 
 
-> ⚠️ Only dummy emails are included in the sample data. Do not use real addresses in public repositories.
+> Only dummy emails are included in the sample data. Do not use real addresses in public repositories.
 
 ## How to Use
 1. Open `SampleData.xlsm` in Excel and enable macros.  
@@ -25,7 +25,7 @@ A VBA macro that automates sending customized bulk emails directly from Excel us
 > - The macro will automatically load your Outlook signature.  
 > - You can temporarily edit your Outlook signature to include a default message (e.g., "Good day, please find the attached invoice for July 2025").
 
-## 💡 Contributions
+## Contributions
 Feel free to **fork, test, or contribute**! Feedback and improvements are welcome.
 
 ## Technology Used
