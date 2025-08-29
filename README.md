@@ -2,7 +2,7 @@
 
 A VBA macro that automates sending customized bulk emails directly from Excel using Outlook.
 
-✅ **Features**
+**Features**
 - Send emails to multiple recipients at once  
 - Supports **To, CC, BCC, Subject, Attachments, and Outlook signatures**  
 - Simple **one-click execution** via a macro  
@@ -14,7 +14,7 @@ A VBA macro that automates sending customized bulk emails directly from Excel us
 
 > ⚠️ Only dummy emails are included in the sample data. Do not use real addresses in public repositories.
 
-## 📝 How to Use
+## How to Use
 1. Open `SampleData.xlsm` in Excel and enable macros.  
 2. Press `Alt + F8` → Run `SendSelectedBulkEmails`.  
 3. Select the rows containing recipient info.  
